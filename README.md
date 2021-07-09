@@ -9,7 +9,7 @@ A Colorado Board of Elections employee has given you the following tasks for you
 4.  Calculate the percentage of votes each candidate won
 5.  Determine the winner of the election based on popoular vote
 6.  Calculate the number of votes in each county and the largest
-7.  Calculate the percentage of votes in each count and the largest
+7.  Calculate the percentage of votes in each county and the largest
 
 This report provides the results.  In addition, two potential additions to the code that can be used for any election are given below.
 
@@ -28,7 +28,7 @@ This report provides the results.  In addition, two potential additions to the c
 
 ## Election Audit Summary
 
-The following are outlines for expanding the use of the existing program for electiion analysis.  The first capability is to add another dictionary which is populated by user input.  This can be used to add candidates and counties not in the csv data file, or it could be used to create addional csv data files.  The second modification is to give the program the capability to append previous reports onto existing reports, with a report lable.  In this way, previous reports could be viewed if the list of canidate/counties changes.
+The following are outlines for expanding the use of the existing program for electiion analysis.  The first capability is to add another dictionary which is populated by user input.  This can be used to add candidates and counties not in the csv data file, or it could be used to create addional csv data files.  The second modification is to give the program the capability to append previous reports onto existing reports, with a report label.  In this way, previous reports could be viewed if the list of canidates/counties changes.
 
 1. First proposed modification:  add a supplemental dictionary
 
